@@ -40,7 +40,6 @@
 
 **Deliverables**:
 - A Jupyter notebook or Python script containing the code for data collection, model implementation, and results visualization.
-- A brief report summarizing your approach, model performance, and any challenges faced during the implementation.
 
 ---
 
